@@ -1,0 +1,33 @@
+Variable:
+una variable es una cajita a creas para almacenar algun valor 
+String:
+es una cadena de caracteres. 
+"esto es un string"
+Funciones:
+Las funciones sirven para escribir codigo que se pueda reutilizar.
+asi nos ahorramos de escribir el codigo una y otra vez, ya que con una sola vez que 
+sea escrito sera suficiente. ejemplo:
+si creamos una funcion con el nombre de : 
+funcionDePrueba(){
+    escribimos el codigo aca dentro
+    a
+    aca
+    aca
+    aca
+
+}
+para llamar a la funcion solo basta con escribir el nombre de la funcion, se ejecutara el codigo
+cuantas veces desees.
+Las funciones trabajan con argumentos, basicamente es el valor que le agregamos a los parametro.
+los parametros es lo que escribes dentro de los parentesis de las funciones.
+ejemplo:
+funcionDePrueba (esto que esta aca adentro se le conoce como parametro)
+cuando le das argumento al parametro es como si le dieras un valor a ese parametro.
+return:
+el return sirve para devolver 
+if: 
+Es una condicion que usamos en el codigo, que nos permitira definir si el codigo
+ que escribaimos sera ejecutado o no mediante esa condicion. 
+ valores booleanos:
+ Los valores booleanos son un tipo de dato que representa true o false, normalmente en un codigo
+ representan cuando algo es verdadero y cuando es falso.
