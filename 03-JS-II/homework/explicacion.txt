@@ -1,0 +1,26 @@
+for: 
+El bucle for sirve para ejecutar codigo cierta cantidad de veces mientras sea necesario por ejemplo:
+si quisiera ejecutar un codigo de 0 a 1000 veces. Si usamos el bucle for nos permite ejecutar
+ese codigo en una line mas corta, se ejecutara de forma automatica 1000 veces , sin la necesidad de
+ escribirlo manuel 1000 veces hasta lograr lo que queremos. 
+&&:
+El operador AND sirve para ejecutar  linea de codigo cuando  las expresiones de los operadores 
+ sean verdaderas.
+ejemplo:
+  X  ---- Y
+  T-------F ---> FALSE 
+  F-------T ---> FALSE
+  T-------T ---> TRUE 
+  F-------F ---> FALSE 
+
+  ||:
+  El operador OR sirve para ejecutar linea de codigo cuando la expresion de
+  uno de los operadores es verdadera. 
+  ejemplo:
+  X------Y
+  T------T ---> TRUE 
+  F------T ---> TRUE 
+  T------F ---> TRUE 
+  F------F ---> FALSE 
+  !: NOT
+  Es el operador que usamos para negar el verdadero valor de una expresion
